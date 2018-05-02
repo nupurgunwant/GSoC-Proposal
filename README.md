@@ -1,2 +1,4 @@
 # GSoC-Proposal
-Proposal for GSoc 2018, under InterMine
+Proposal for GSoc 2018
+Organization: InterMine
+Project: Python Client Expansion
